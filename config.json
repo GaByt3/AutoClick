@@ -1,0 +1,7 @@
+{
+    "start_key": "f5",
+    "pause_key": "f6",
+    "delay": 1.0,
+    "clicks_per_loop": 1,
+    "button": "left"
+}
