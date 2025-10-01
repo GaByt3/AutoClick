@@ -25,16 +25,16 @@ AutoTap is a **customizable autoclicker** for Windows that’s simple and intuit
 ## Screenshots
 
 **Dark Mode**  
-![Dark Mode](image-1.png)  
+![Dark Mode](<assets/Dark Mode.png>) 
 
 **Light Mode**  
-![Light Mode](image-2.png)  
+![Light Mode](<assets/Light Mode.png>) 
 
 **Autoclicker running**  
-![Running](image-4.png)  
+![Running](<assets/Running.png>) 
 
 **Settings**  
-![Settings](image-3.png)  
+![Settings](<assets/Settings.png>)  
 
 ---
 
